@@ -1,0 +1,1 @@
+Put your project pictures in this folder (about-me.png, project1.png ... project16.png).

@@ -13,8 +13,8 @@ const FLY_TURN_SPEED = 1.8 // spaceship turning speed
 const ASTRONAUT_SIZE = 1.5
 const SHIP_SIZE = 3.5
 // If your astronaut/ship model faces the wrong way, change these to Math.PI (half turn)
-const ASTRONAUT_ROTATION = 0
-const SHIP_ROTATION = 0
+const ASTRONAUT_ROTATION = Math.PI //this used to be 0 btw
+const SHIP_ROTATION = Math.PI //this used to be 0 btw
 // ---------------------------------------
 
 const UP = new THREE.Vector3(0, 1, 0)
